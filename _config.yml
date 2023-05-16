@@ -56,8 +56,8 @@ features                                  :
     description                           : Your list stays in your phone. Backup or load from your own device. 
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Trademark History Logging
+    description                           : Our app automatically logs all updates, providing a comprehensive history for each of your watched trademarks. 
     fontawesome_icon_name                 : star
 
 
