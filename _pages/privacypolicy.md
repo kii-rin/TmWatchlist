@@ -1,3 +1,10 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+
 # Trademark Watchlist Privacy Policy
 
 _Last Updated: May 16, 2023_
