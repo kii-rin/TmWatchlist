@@ -6,5 +6,5 @@ include_in_header: true
 
 ### `Latest`
 
-## Version 1.2
+## Version 1.4
 Initial Release.
