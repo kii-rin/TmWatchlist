@@ -8,3 +8,6 @@ include_in_header: true
 
 ## Version 1.4
 Initial Release.
+
+## Version 1.4.1
+SEO Improvements
