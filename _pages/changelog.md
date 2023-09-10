@@ -6,6 +6,9 @@ include_in_header: true
 
 ### `Latest`
 
+## Version 1.6.1
+- Server Optimizations
+
 ## Version 1.5.1
 - Bug Fixes
 - Clear button added to history section
